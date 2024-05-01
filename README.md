@@ -19,7 +19,6 @@
 | Knoblauchbaguette |            | 8     |
 | Knoblauchbutter   |            | 2     |
 | Ness Kaffee       |            | 1     |
-| Zaziki            |            | 4     |
 
 ## Getränke
 
