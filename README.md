@@ -16,11 +16,12 @@
 
 ## Getränke
 
-| Artikel                  | Stück |
-| ------------------------ | ----- |
-| Flaschen cola            | 9     |
-| Flaschen Fanta           | 3     |
-| Flaschen Sprite je 1.5L, | 3     |
+| Artikel                  | Stück (Flaschen) |
+| ------------------------ | ---------------- |
+| Flaschen cola            | 9                |
+| Flaschen Fanta           | 3                |
+| Flaschen Sprite je 1.5L, | 3                |
+| Wasser                   | 12               |
 
 ## Knabberzeug
 
