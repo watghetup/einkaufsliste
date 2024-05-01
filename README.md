@@ -21,3 +21,11 @@
 | Flaschen cola            | 9     |
 | Flaschen Fanta           | 3     |
 | Flaschen Sprite je 1.5L, | 3     |
+
+## Knabberzeug
+
+| Artikel   | Stück |
+| --------- | ----- |
+| Chips     | 10    |
+| Pistazien | 3     |
+| Nüsse     | 3     |
