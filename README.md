@@ -31,8 +31,8 @@
 | Wein (weiß)                         | 6                |
 | Bier                                | 2 Kisten         |
 | Radler                              | 1 Kiste          |
-| Whisky                              | 1                |
-| Gin Wildberry                       | 1                |
+| Whisky                              | 2                |
+| Gin Wildberry                       | 2                |
 
 ## Knabberzeug
 
