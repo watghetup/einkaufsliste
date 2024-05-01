@@ -20,16 +20,16 @@
 
 ## Getränke
 
-| Artikel                  | Stück (Flaschen) |
-| ------------------------ | ---------------- |
-| Flaschen cola            | 9                |
-| Flaschen Fanta           | 3                |
-| Flaschen Sprite je 1.5L, | 3                |
-| Wasser                   | 16               |
-| Wein (weiß)              | 6                |
-| Bier                     | 3 Kisten         |
-| Whisky                   | 1                |
-| Gin Wildberry            | 1                |
+| Artikel         | Stück (Flaschen) |
+| --------------- | ---------------- |
+| cola            | 9                |
+| Fanta           | 3                |
+| Sprite je 1.5L, | 3                |
+| Wasser          | 16               |
+| Wein (weiß)     | 6                |
+| Bier            | 3 Kisten         |
+| Whisky          | 1                |
+| Gin Wildberry   | 1                |
 
 ## Knabberzeug
 
