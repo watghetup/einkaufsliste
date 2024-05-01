@@ -21,7 +21,7 @@
 | Flaschen cola            | 9                |
 | Flaschen Fanta           | 3                |
 | Flaschen Sprite je 1.5L, | 3                |
-| Wasser                   | 12               |
+| Wasser                   | 16               |
 
 ## Knabberzeug
 
