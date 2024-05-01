@@ -11,5 +11,13 @@
 | Aufbackwecken     |            | 40    |
 | Knoblauchbaguette |            | 8     |
 | Eier              |            | 16    |
+| Knoblauchbutter   |            | 2     |
+| Tomaten           | 3          |       |
 
 ## Getränke
+
+| Artikel                  | Stück |
+| ------------------------ | ----- |
+| Flaschen cola            | 9     |
+| Flaschen Fanta           | 3     |
+| Flaschen Sprite je 1.5L, | 3     |
