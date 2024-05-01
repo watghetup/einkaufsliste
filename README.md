@@ -1,6 +1,6 @@
 # Einkaufsliste
 
-## Fleisch
+## Essen
 
 | Artikel           | Menge (kg) | Stück |
 | ----------------- | ---------- | ----- |
