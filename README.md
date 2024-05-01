@@ -16,6 +16,7 @@
 | Käse              | 0,8        |       |
 | Wurst             | 0,8        |       |
 | Ness Kaffee       |            | 1     |
+| Paprika           | 2          |       |
 
 ## Getränke
 
