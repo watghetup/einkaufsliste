@@ -28,6 +28,8 @@
 | Wasser                   | 16               |
 | Wein (weiß)              | 6                |
 | Bier                     | 3 Kisten         |
+| Whisky                   | 1                |
+| Gin Wildberry            | 1                |
 
 ## Knabberzeug
 
