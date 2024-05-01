@@ -13,6 +13,8 @@
 | Eier              |            | 16    |
 | Knoblauchbutter   |            | 2     |
 | Tomaten           | 3          |       |
+| Käse              | 0,8        |       |
+| Wurst             | 0,8        |       |
 
 ## Getränke
 
