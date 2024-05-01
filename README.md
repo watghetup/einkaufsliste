@@ -15,6 +15,7 @@
 | Tomaten           | 3          |       |
 | Käse              | 0,8        |       |
 | Wurst             | 0,8        |       |
+| Ness Kaffee       |            | 1     |
 
 ## Getränke
 
@@ -24,6 +25,8 @@
 | Flaschen Fanta           | 3                |
 | Flaschen Sprite je 1.5L, | 3                |
 | Wasser                   | 16               |
+| Wein (weiß)              | 6                |
+| Bier                     | 3 Kisten         |
 
 ## Knabberzeug
 
