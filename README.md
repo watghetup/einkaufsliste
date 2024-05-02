@@ -19,6 +19,8 @@
 | Knoblauchbaguette |            | 8     |
 | Knoblauchbutter   |            | 2     |
 | Ness Kaffee       |            | 1     |
+| Sucuk             | 1          |       |
+| Weißwürste        | 2          |       |
 
 ## Getränke
 
@@ -33,6 +35,7 @@
 | Radler                              | 1 Kiste          |
 | Whisky                              | 2                |
 | Gin Wildberry                       | 2                |
+| Vodka                               | 1                |
 
 ## Knabberzeug
 
